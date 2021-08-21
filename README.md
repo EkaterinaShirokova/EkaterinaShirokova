@@ -1,6 +1,5 @@
 I am a certified software engineer with over 5 years of experience in the development of SaaS web applications.
-
-I have much experience in Web Design and Fullstack Development.
+ I have much experience in Web Design and Fullstack Development.
 
 I am specialized in Figma, Adobe XD, Adobe Photoshop, Adobe Illustrator for Web Design 
 and ReactJS, AngularJS, VueJS for the frontend development.
